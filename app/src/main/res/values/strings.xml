@@ -1,0 +1,20 @@
+<!-- // Author: John Henly A. Montera
+ // BSIT-3rd Year
+ // CC106 [01527] - Application Development and Emerging Technologies
+ // [Exercise 4] Profile Input -->
+
+<resources>
+    <string name="app_name">[Exercise 4] Profile Input_MONTERA</string>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others..</item>
+    </string-array>
+    <string-array name="status">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Widowed</item>
+        <item>Divorced</item>
+        <item>Domestic Partnership</item>
+    </string-array>
+</resources>
